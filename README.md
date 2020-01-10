@@ -2,7 +2,7 @@
 # CryptiCal-backend [![Coverage Status](https://coveralls.io/repos/github/0xEvie/cryptical-backend/badge.svg?branch=master)](https://coveralls.io/github/0xEvie/cryptical-backend?branch=master) [![Build Status](https://travis-ci.org/0xEvie/cryptical-backend.svg?branch=master)](https://travis-ci.org/0xEvie/cryptical-backend) 
 
 
-CryptiCal: Encrypted Calendar
+CryptiCal: Encrypted Calendar (Back-end)
 
 (Assignment 1, Web App Development 1 + Agile Software Practice, Year 4 college) 
 
