@@ -3,8 +3,7 @@
 
 
 CryptiCal: Encrypted Calendar (Back-end)
-
-(Assignment 1, Web App Development 1 + Agile Software Practice, Year 4 college) 
+This backend was developed utilizing with NodeJS, ExpressJS, MongoDB.
 
 
 # Features
@@ -202,7 +201,8 @@ var EventSchema = new Schema({
 ```
 
 
-## Libraries/Frameworks
+## Libraries/Frameworks/Runtime Environment
+- NodeJS
 - MongoDB
 - MongooseJS
 - PassportJS
